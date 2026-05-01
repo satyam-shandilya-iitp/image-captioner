@@ -91,10 +91,7 @@ Provide an image → Get a generated caption 🎉
 
 ---
 
-## 🙏 Acknowledgment
 
-This project is inspired by and based on:
-https://github.com/satyamsahooPH25/Image_Captioner
 
 ---
 
